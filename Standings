@@ -1,0 +1,15 @@
+<!-- HTML code for the results table -->
+<table id="results">
+  <thead>
+    <tr>
+      <th>Home Team</th>
+      <th>Away Team</th>
+      <th>Home Score</th>
+      <th>Away Score</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Results data will be inserted here -->
+  </tbody>
+</table>
